@@ -2,47 +2,46 @@
 
 **IT Infrastructure | Cloud & DevOps | AWS | Linux | Terraform | Ansible**
 
-I'm an IT Infrastructure professional with **4+ years of experience** supporting and maintaining corporate IT environments. My background includes infrastructure operations, troubleshooting, server administration, access management, and operational continuity.
+I'm an IT Infrastructure professional with **4+ years of experience** supporting and maintaining corporate IT environments. My background includes server administration, infrastructure operations, troubleshooting, access management, backup routines, and operational continuity.
 
-I'm currently expanding my skills in **Cloud Computing and DevOps** through structured study and hands-on labs, with a focus on automation, Infrastructure as Code, and reliable cloud environments.
+I'm transitioning toward **Cloud and DevOps** by combining my infrastructure experience with hands-on study and practical labs.
 
 ## About me
 
-- 💼 4+ years of experience in IT infrastructure and technical support.
-- 🖥️ Professional experience with Windows Server, Active Directory, IIS, SQL Server, virtualization, and infrastructure operations.
-- ☁️ Currently studying and practicing AWS and cloud infrastructure.
-- ⚙️ Building practical skills with Terraform, Ansible, Linux, Docker, Git, and CI/CD concepts.
-- 🎯 Interested in Junior opportunities in Cloud, DevOps, and Cloud Operations.
+- 💼 4+ years of professional experience in IT infrastructure.
+- 🖥️ Background in Windows Server, Active Directory, DNS, GPO, IIS, SQL Server, VMware, and Hyper-V.
+- ☁️ Currently studying and practicing AWS cloud services.
+- ⚙️ Developing practical skills in Terraform, Ansible, Linux, Docker, Git, and CI/CD.
+- 🎯 Interested in Junior opportunities in Cloud Engineering, DevOps, and Cloud Operations.
 
-## Technical background
+## Skills and learning path
 
-### Professional experience
-- Windows Server administration
-- Active Directory and identity/access management
-- IIS and SQL Server operations
-- Troubleshooting and incident management
-- Backup and recovery routines
-- Virtualization with VMware and Hyper-V
-- Network services and connectivity troubleshooting
+| Area | Experience |
+|---|---|
+| IT Infrastructure | Professional experience |
+| Windows Server, AD, DNS, GPO, IIS | Professional experience |
+| SQL Server, backup and recovery | Professional experience |
+| VMware and Hyper-V | Professional experience |
+| AWS | Hands-on labs and study |
+| Linux | Hands-on labs and study |
+| Terraform and Ansible | Hands-on labs and study |
+| Docker, Git and CI/CD | Learning and practice |
 
-### Currently learning and practicing
-- **Cloud:** AWS
-- **Infrastructure as Code:** Terraform
-- **Configuration management:** Ansible
-- **Operating systems:** Linux
-- **Containers:** Docker
-- **Version control and automation:** Git, GitHub, and CI/CD fundamentals
+## Public learning repository
 
-## Hands-on labs and projects
+- [DevOps and Git workflow practice](https://github.com/khesia123/Devops-inicio) — an introductory exercise covering Git versions, branches, feature changes, and pull requests.
 
-I use this GitHub profile to document my learning journey and practical work in Cloud and DevOps.
+## Labs in progress
 
-As I complete each lab, I aim to include:
-- The goal and architecture of the lab
-- Tools and technologies used
-- Implementation steps and commands
-- Configuration files and code
-- Screenshots, validation, and lessons learned
+I'm building and documenting practical projects in the following areas. Each project will be added here after implementation and validation:
+
+- AWS infrastructure provisioning with Terraform
+- Linux server administration and troubleshooting
+- Configuration automation with Ansible
+- Containerization with Docker
+- CI/CD workflows with GitHub Actions
+
+For each completed lab, I aim to publish the architecture, implementation steps, relevant code, validation evidence, and lessons learned. I distinguish professional experience from technologies I am currently learning.
 
 ## Let's connect
 
@@ -51,4 +50,4 @@ As I complete each lab, I aim to include:
 
 ---
 
-*Learning continuously, practicing consistently, and building a career in Cloud and DevOps.* 🚀
+*Learning continuously, practicing consistently, and building reliable cloud infrastructure.* 🚀
