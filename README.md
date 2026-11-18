@@ -27,6 +27,10 @@ I'm transitioning toward **Cloud and DevOps** by combining my infrastructure exp
 | Terraform and Ansible | Hands-on labs and study |
 | Docker, Git and CI/CD | Learning and practice |
 
+## Featured Cloud & DevOps portfolio
+
+- [Cloud & DevOps Labs](https://github.com/khesia123/cloud-devops-labs) — hands-on AWS, Terraform, Linux, Ansible, Docker, and CI/CD labs.
+
 ## Hands-on labs in progress
 
 I'm building and documenting practical projects in the following areas. Public repositories will be added here after each lab is implemented, validated, and documented:
