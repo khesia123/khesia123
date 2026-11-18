@@ -27,13 +27,9 @@ I'm transitioning toward **Cloud and DevOps** by combining my infrastructure exp
 | Terraform and Ansible | Hands-on labs and study |
 | Docker, Git and CI/CD | Learning and practice |
 
-## Public learning repository
+## Hands-on labs in progress
 
-- [DevOps and Git workflow practice](https://github.com/khesia123/Devops-inicio) — an introductory exercise covering Git versions, branches, feature changes, and pull requests.
-
-## Labs in progress
-
-I'm building and documenting practical projects in the following areas. Each project will be added here after implementation and validation:
+I'm building and documenting practical projects in the following areas. Public repositories will be added here after each lab is implemented, validated, and documented:
 
 - AWS infrastructure provisioning with Terraform
 - Linux server administration and troubleshooting
